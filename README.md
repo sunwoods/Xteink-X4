@@ -18,3 +18,6 @@
 
 按键与ESP32-C3的引脚关系（其中SC_CS的连接方式比较奇怪）  
 <img src="https://github.com/sunwoods/Xteink-X4/blob/main/readme-img/05.jpg" width="600"/>
+
+经过验证，以上提供的原理图管脚争取，可正常刷新为指定内容  
+<img src="https://github.com/sunwoods/Xteink-X4/blob/main/readme-img/06.jpg" width="400"/>
